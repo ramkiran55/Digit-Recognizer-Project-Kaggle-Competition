@@ -32,4 +32,3 @@ The evaluation metric for this contest is the categorization accuracy, or the pr
 Output :
 
 ![](https://github.com/ramkiran55/Digit-Recognizer-Project-Kaggle-Competition/blob/master/Outputs/out2.JPG)
-
